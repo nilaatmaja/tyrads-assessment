@@ -1,0 +1,22 @@
+[
+    {
+        "id": "64b61ed4-9775-4d29-9778-3a86bbc70ada",
+        "name": "Mackbook",
+        "isChecked": false
+    },
+    {
+        "id": "64b61ed4-9775-4d29-9778-3a86bbc70adb",
+        "name": "Bicycle",
+        "isChecked": false
+    },
+    {
+        "id": "64b61ed4-9775-4d29-9778-3a86bbc70adc",
+        "name": "Motorcycle",
+        "isChecked": false
+    },
+    {
+        "id": "64b61ed4-9775-4d29-9778-3a86bbc70add",
+        "name": "Iphone 14 pro max",
+        "isChecked": false
+    }
+]
